@@ -1,0 +1,7 @@
+{
+  "name": "photo-gallery-firebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
